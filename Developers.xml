@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Developers>
+    <Developer id="1">
+        <name>Andrew</name>
+        <age>25</age>
+        <position>Middle</position>
+        <language>Java</language>
+    </Developer>
+    <Developer id="2">
+        <name>Dima</name>
+        <age>21</age>
+        <position>Junior</position>
+        <language>JS</language>
+    </Developer>
+    <Developer id="3">
+        <name>Alex</name>
+        <age>23</age>
+        <position>Junior</position>
+        <language>Java</language>
+    </Developer>
+    <Developer id="4">
+        <name>Irena</name>
+        <age>27</age>
+        <position>Middle</position>
+        <language>JS</language>
+    </Developer>
+    <Developer id="5">
+        <name>Max</name>
+        <age>22</age>
+        <position>Senior</position>
+        <language>C++</language>
+    </Developer>
+    <Developer id="6">
+        <name>Roma</name>
+        <age>26</age>
+        <position>Middle</position>
+        <language>C++</language>
+    </Developer>
+</Developers>
